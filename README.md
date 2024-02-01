@@ -33,4 +33,3 @@ Mwansa Bwalya
 ## Acknowledgments
 
 * React.js Documentation
->>>>>>> 5aa9662e6e01c3c75040a053d49e840ad7f532a6
